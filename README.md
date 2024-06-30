@@ -39,6 +39,10 @@ export WAV2VEC2_TOKENIZER_PATH='your_wav2vec2_tokenizer_path_here'
 streamlit run app.py
 ```
 
+When you start the demo, you should see a window similar to the following:
+
+![Screenshot from 2024-06-30 22-51-02](https://github.com/JAADARI/Mistral_FT_Hack/assets/78422942/b7d2a285-a36d-4049-bcad-37f703f7b8e5)
+
 
 ## Fine-tuning details 
 As part of the hackathon, we fine-tuned the Mistral model specifically for summarizing inaccurately transformed text using Mistral APIs. The fine-tuned model used was "mistral-open-7b".
