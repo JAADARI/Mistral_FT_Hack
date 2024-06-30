@@ -81,6 +81,6 @@ Detailed results are illustrated in the accompanying table.
 | Model                         | Input           | Rouge-1-F | Rouge-2-F | Rouge-l-F |
 |-------------------------------|-----------------|-----------|-----------|-----------|
 | DarijaBERT-summarization-goud | Transformed text  | 0.116     | 0.0404    | 0.109     |
-| open-mistral-7b                   | Original text | 0.057     | 0.012     | 0.055     |
+| open-mistral-7b                   | Transformed text | 0.057     | 0.012     | 0.055     |
 | Fine-tuned-open-mistral-7b    | Transormed text | 0.101     | 0.028     | 0.100     |
 
