@@ -1,3 +1,4 @@
+![Screenshot from 2024-06-30 22-58-31](https://github.com/JAADARI/Mistral_FT_Hack/assets/78422942/8c3b5ad8-f489-4fd9-b0bf-329b63b138cc)
 ## Darija Summarization
 - [Description](#Description)
 - [Usage](#Usage)
@@ -6,6 +7,7 @@
 
 
 ## Description 
+
 This application was developed during the Mistral AI fine-tuning hackathon to tackle the issue of inaccurate text output from models like Automatic Speech Recognition (ASR) and Optical Character Recognition (OCR), particularly for the Moroccan dialect (Darija), which is considered a low-resource language. The project integrates a language model designed to understand the context of inaccurately transcribed text, enabling it to extract meaningful insights and generate summaries.
 
 
