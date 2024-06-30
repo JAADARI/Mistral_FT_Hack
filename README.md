@@ -15,6 +15,10 @@ This application was developed during the Mistral AI fine-tuning hackathon to ta
 ```bash
 pip install -r requirements.txt
 ```
+# Start the demo: 
+
+```bash
+streamlit run app.py```
 
 
 
