@@ -18,8 +18,8 @@ pip install -r requirements.txt
 # Start the demo: 
 
 ```bash
-streamlit run app.py```
-
+streamlit run app.py
+```
 
 
 ## Fine-tuning details 
