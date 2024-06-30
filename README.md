@@ -15,6 +15,24 @@ This application was developed during the Mistral AI fine-tuning hackathon to ta
 ```bash
 pip install -r requirements.txt
 ```
+
+## Setting Up Environment Variables
+
+Before running the application, you need to set up the following environment variables:
+
+- `MISTRAL_API_KEY`: Your API key for the Mistral client.
+- `MISTRAL_JOB_ID`: The job ID for the fine-tuned model you want to use.
+- `WAV2VEC2_TOKENIZER_PATH`: The path to the tokenizer file for the Wav2Vec2 model.
+
+You can set these variables in your terminal or add them to a `.env` file.
+
+### Setting Environment Variables in the Terminal
+
+```sh
+export MISTRAL_API_KEY='your_mistral_api_key_here'
+export MISTRAL_JOB_ID='your_mistral_job_id_here'
+export WAV2VEC2_TOKENIZER_PATH='your_wav2vec2_tokenizer_path_here'
+```
 # Start the demo: 
 
 ```bash
